@@ -1,0 +1,18 @@
+# -*- mode: gitignore; -*-
+
+# General files
+.DS_Store
+*~$
+*~
+\#*\#
+elpa
+
+
+places
+.recentf
+ido.last
+cider-history
+projectile-bookmarks.eld
+projectile.cache
+auto-save-list
+backups
