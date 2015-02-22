@@ -14,7 +14,9 @@
 (package-initialize)
 
 
-;;Load customaztions
+;;Load custom scripts
 (add-to-list 'load-path "~/.emacs.d/custom")
+(load "navigation.el")
+(load "ui.el")
 (load "misc.el")
 (load "theme.el")
