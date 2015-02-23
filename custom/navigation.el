@@ -3,3 +3,6 @@
 
 ;; Allow partial matches
 (setq ido-enable-flex-matching t)
+
+;; Projectile
+(projectile-global-mode)
